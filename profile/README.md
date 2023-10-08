@@ -7,7 +7,7 @@ Projects may be made **public** in the future, depending on the decisions we may
 Projects made **private** are still a work in project, or contain vital files for different automated processes that aren't meant for public use.
 
 # License
-### Any code written and published to this repository currently follows the ``CC BY-NC-ND`` License:
+Any code written and published to this repository currently follows the ``CC BY-NC-ND`` License:
 
 ```
 Attribution-NonCommercial 4.0 International
