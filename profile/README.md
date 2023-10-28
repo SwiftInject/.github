@@ -1,6 +1,6 @@
 # Swift Project
 
-Swift is the name of a line of projects we, [@lucaforever](https://github.com/LucaForever) and [@twistvibed](https://github.com/TwistVibed) are currently coding.
+Swift is the name of a line of projects we, [@lucaforever](https://github.com/LucaForever), [@twistvibed](https://github.com/TwistVibed) and [@Fainton](https://github.com/Fainton) are currently coding.
 
 Projects may be made **public** in the future, depending on the decisions we may take.
 
