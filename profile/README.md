@@ -1,7 +1,7 @@
 # Swift Project
 https://swiftproject.top/
 
-Swift is the name of a line of projects we, [@lucaforever](https://github.com/LucaForever), [@nullifiedpntr](https://github.com/nullifiedpntr) and [@Fainton](https://github.com/Fainton) are currently developing.
+Swift is the name of a line of projects we, [@lucaledd](https://github.com/lucaledd), [@nullifiedpntr](https://github.com/nullifiedpntr) and [@Fainton](https://github.com/Fainton) are currently developing.
 
 Projects may be made **public** in the future, depending on the decisions we may take.
 
