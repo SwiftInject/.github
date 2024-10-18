@@ -5,7 +5,7 @@ Swift is the name of a line of projects we, [@lucaledd](https://github.com/lucal
 
 Projects may be made **public** in the future, depending on the decisions we may take.
 
-Projects made **private** are still a work in project, or contain vital files for different automated processes that aren't meant for public use.
+Projects made **private** are still a work in progress, or contain vital files for different automated processes that aren't meant for public use.
 
 
 # License
